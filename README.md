@@ -1,8 +1,8 @@
 linkypedia
 ==========
 
-linkypedia is a webapp for seeing how 3rd party web content is being used on 
-wikipedia.
+linkypedia is a Web App for seeing how 3rd party web content is being used on 
+#Wikipedia.
 
 Setup
 -----
